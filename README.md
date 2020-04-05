@@ -11,11 +11,11 @@ This endpoint will return a list of driver locations, nearby to the location and
 
 ### Tech Stack 📚
 
- - NodeJS 💎
- - Apollo GraphQL server 🚀
- - Apollo REST Datasource 🔥 
- - GraphQL Playground for schema docs 📝
- - Jest for testing ✨
+ - NodeJS
+ - Apollo GraphQL server
+ - Apollo REST Datasource
+ - GraphQL Playground for schema docs
+ - Jest for testing
  
 ### Note 🌞
 
