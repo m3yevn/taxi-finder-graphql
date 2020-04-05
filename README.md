@@ -54,4 +54,4 @@ https://github.com/m3yevn/taxi-finder-client/
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/m3yevn/taxi-finder-graphql/master/screenshots/taxi-finder-graphql-ss.png" alt="screenshot" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" />
+<img src="screenshots/taxi-finder-graphql-ss.png" alt="screenshot" />
