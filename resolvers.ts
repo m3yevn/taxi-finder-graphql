@@ -1,7 +1,7 @@
 const resolvers = {
   Query: {
-    drivers: async (_, {count}, { dataSources }) => {
-      const drivers = await dataSources.driverData.getDrivers(count);
+    drivers: async (_: any, { count }: any, { dataSources }: any) => {
+      const drivers = await dataSources.driverData.getDrivers(parseInt(count));
       return drivers;
     }
   }

@@ -52,6 +52,26 @@ https://github.com/m3yevn/taxi-finder-client/
     $ npm run test
 ``
 
+### Docker repository 🐳
+
+ - This project image is available at
+ - https://hub.docker.com/repository/docker/m3yevn/taxi-finder-graphql
+
+## ![Docker Pulls](https://img.shields.io/docker/pulls/m3yevn/taxi-finder-graphql?style=for-the-badge)
+
+### How to run on docker
+
+```sh
+    $ docker pull m3yevn/taxi-finder-graphql:latest
+    $ docker run -d -p 5000:5000 --name taxi-finder-gql m3yevn/taxi-finder-graphql:latest
+```
+
+### How to build docker image
+
+```sh
+    $ docker build -t <**image_tag**> .
+```
+
 ### Screenshot
 
 <img src="screenshots/taxi-finder-graphql-ss.png" alt="screenshot" />
